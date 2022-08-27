@@ -23,11 +23,3 @@ Apollo, as well as Shopify to create exciting projects.<p/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unique-Red&langs_count=10&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=000000&color=FF0000" style="width:100%">
 <img src="https://activity-graph.herokuapp.com/graph?username=Unique-Red&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true">
 <br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderofphcity&show_icons=true&locale=en" alt="coderofphcity" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderofphcity&" alt="coderofphcity" /></p>
-
-
-
-
