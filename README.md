@@ -11,12 +11,9 @@ There's a lot more. Connect with me:
   <a href = "https://twitter.com/CoderOfPHCity"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
-<!--
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building cutting edge tools and innovative platforms through code.
 - 🌱 I’m currently open to working as entry level front end engineer as well as collaborations 
 on open source projects, hackertons and Code challenges.
 
--->
+
+
