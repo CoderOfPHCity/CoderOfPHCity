@@ -5,7 +5,6 @@
 on open source projects, hackertons and Code challenges. I realy enjoy learning and working with new technologies like React, GraphQL,
 Apollo, as well as Shopify to create exciting projects.<p/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderofphcity" alt="coderofphcity" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/coderofphcity" target="blank"><img src="https://img.shields.io/twitter/follow/coderofphcity?logo=twitter&style=for-the-badge" alt="coderofphcity" /></a> </p>
 
