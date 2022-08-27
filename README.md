@@ -1,11 +1,9 @@
-### Hi there 👋
-- 🔭 I’m currently working on building cutting edge tools and innovative platforms through code.
-- 🌱 I’m currently open to working as entry level front end engineer as well as collaborations 
-on open source projects, hackertons and Code challenges. I realy enjoy learning and working with new technologies like React, GraphQL,
-Apollo, as well as Shopify to create exciting projects.
-
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">An Experienced frontend developer</h3>
+<h3>- 🔭 I’m currently working on building cutting edge tools and innovative platforms through code.
+- 🌱 I’m currently open to working as entry level front end engineer as well as collaborations 
+on open source projects, hackertons and Code challenges. I realy enjoy learning and working with new technologies like React, GraphQL,
+Apollo, as well as Shopify to create exciting projects.<h3/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderofphcity" alt="coderofphcity" /></a> </p>
 
