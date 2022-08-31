@@ -5,6 +5,18 @@
 on open source projects, hackertons and Code challenges. I realy enjoy learning and working with new technologies like React, GraphQL,
 Apollo, as well as Shopify to create exciting projects.<p/>
 
+- 🔭 I’m currently working with React JS, Tailwind CSS, AOS, and Framer motion and using them to build fun, creative Web Projects
+
+- 🌱 I’m currently learning **more of React, ContextAPI, redux, framer motion, Firebase**
+
+- 👯 I’m looking to collaborate on **Junior Developer roles or Partnership with other young developers**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://codingossy.vercel.app)**
+
+- 📫 How to reach me **codingossy@gmail.com**
+
+- ⚡ Fun fact **I like to Watch Movies, Travel and i Love Food, alot**
+
 
 <p align="left"> <a href="https://twitter.com/coderofphcity" target="blank"><img src="https://img.shields.io/twitter/follow/coderofphcity?logo=twitter&style=for-the-badge" alt="coderofphcity" /></a> </p>
 
