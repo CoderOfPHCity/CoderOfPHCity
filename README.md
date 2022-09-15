@@ -32,7 +32,7 @@ Apollo, as well as Shopify to create exciting projects.<p/>
 
 ## My Recent Blogposts ✍️
 
-### My Blog
+### My Blog post
 <!-- BLOG:START -->
 - [Building Front-End Authentication Using Redux Toolkit and Axios](https://coderofphcity.hashnode.dev/building-front-end-authentication-using-redux-toolkit-and-axios)
 - [Basic Express Server And Router Setup](https://coderofphcity.hashnode.dev/basic-express-server-and-router-setup)
