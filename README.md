@@ -35,6 +35,7 @@ Apollo, as well as Shopify to create exciting projects.<p/>
 ### My Blog post
 <!-- BLOG:START -->
 - [Building Front-End Authentication Using Redux Toolkit and Axios](https://coderofphcity.hashnode.dev/building-front-end-authentication-using-redux-toolkit-and-axios)
+- [NFT Overview For Beginners](https://coderofphcity.hashnode.dev/nft-overview-for-beginners#cl83jc7qc00bgr2nv1vom597t?t=1663275586135)
 - [Basic Express Server And Router Setup](https://coderofphcity.hashnode.dev/basic-express-server-and-router-setup)
 - [Ethereum 2.0 Merge: Understanding Proof-Of-Stake and why should I care](https://coderofphcity.hashnode.dev/ethereum-20-merge-understanding-proof-of-stake-and-why-should-i-care)
 <!-- BLOG:END -->
