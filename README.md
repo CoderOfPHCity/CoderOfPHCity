@@ -31,8 +31,6 @@ Apollo, as well as Shopify to create exciting projects.<p/>
 <hr>
 
 ## My Recent Blogposts ✍️
-
-### My Blog post
 <!-- BLOG:START -->
 - [Building Front-End Authentication Using Redux Toolkit and Axios](https://coderofphcity.hashnode.dev/building-front-end-authentication-using-redux-toolkit-and-axios)
 - [NFT Overview For Beginners](https://coderofphcity.hashnode.dev/nft-overview-for-beginners#cl83jc7qc00bgr2nv1vom597t?t=1663275586135)
