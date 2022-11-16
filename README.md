@@ -9,7 +9,7 @@ Apollo, as well as Shopify to create exciting projects.<p/>
 
 - 🔭 I’m currently working with React JS, Tailwind CSS, AOS, Python and Framer motion and using them to build fun, creative Web Projects
 
-- 🌱 I’m currently learning **more of React, ContextAPI, Redux Toolkit, NextJs, Python, Firebase**
+- 🌱 I’m currently learning **more of React, ContextAPI, Redux Toolkit, Python, Firebase**
 
 - 👯 I’m looking to collaborate on **Junior Developer roles or Partnership with other young developers**
 
