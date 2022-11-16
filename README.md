@@ -7,7 +7,7 @@
 on open source projects, hackertons and Code challenges. I realy enjoy learning and working with new technologies like React, GraphQL,NextJS
 Apollo, as well as Shopify to create exciting projects.<p/>
 
-- 🔭 I’m currently working with React JS, Tailwind CSS, AOS, Python and Framer motion and using them to build fun, creative Web Projects
+- 🔭 I’m currently working with React JS, Tailwind CSS, AOS, Python and Framer motion and using them to build fun, creative Web Project
 
 - 🌱 I’m currently learning **more of React, ContextAPI, Redux Toolkit, Python, Firebase**
 
