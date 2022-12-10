@@ -4,7 +4,7 @@
 <h3 align="center">An Experienced frontend developer</h3>
 <p>- 🔭 I’m currently working on building cutting edge tools and innovative platforms through code.
 - 🌱 I’m currently open to working as entry level front end engineer as well as collaborations 
-on open source projects, hackertons and Code challenges. I realy enjoy learning and working with new technologies like React, GraphQL,NextJS
+on open source projects, hackertons and Code challenges. I realy enjoy learning and working with new technologies like React, GraphQL,Next
 Apollo, as well as Shopify to create exciting projects.<p/>
 
 - 🔭 I’m currently working with React JS, Tailwind CSS, AOS, Python and Framer motion and using them to build fun, creative Web Project
