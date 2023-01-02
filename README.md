@@ -15,7 +15,7 @@ Apollo, as well as Shopify to create exciting projects.<p/>
 
 - 📫 How to reach me **Agantemboy@gmail.com**
 
-- ⚡ Fun fact **I like to Watch Movies, Travel and i Love Building, alot**
+- ⚡ Fun fact **I like to Watch Movies,Games, Travel and i Love Building, alot**
 
 
 <p align="left"> <a href="https://twitter.com/coderofphcity" target="blank"><img src="https://img.shields.io/twitter/follow/coderofphcity?logo=twitter&style=for-the-badge" alt="coderofphcity" /></a> </p>
