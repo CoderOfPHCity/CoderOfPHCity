@@ -33,7 +33,7 @@ Apollo, as well as Shopify to create exciting projects.<p/>
 ## My Recent Blogposts ✍️
 <!-- BLOG:START -->
 - [Understanding Redux-Thunk For React: The Big Picture](https://blog.openreplay.com/understanding-redux-thunk-for-react--the-big-picture)
-- - [You don’t need a state management library for React. Use useState + Context](https://code.pieces.app/blog/you-dont-need-a-state-management-library-for-react-use-usestate-context)
+- [You don’t need a state management library for React. Use useState + Context](https://code.pieces.app/blog/you-dont-need-a-state-management-library-for-react-use-usestate-context)
 - [NFT Overview For Beginners](https://coderofphcity.hashnode.dev/nft-overview-for-beginners#cl83jc7qc00bgr2nv1vom597t?t=1663275586135)
 - [Common Python Beginner Mistakes With Default Arguments](https://coderofphcity.hashnode.dev/common-python-beginner-mistakes-with-default-arguments)
 - [A Quick Guide To Building A Basic Express Server And Router Setup](https://coderofphcity.hashnode.dev/basic-express-server-and-router-setup)
