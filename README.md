@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">An Experienced frontend developer</h3>
-<p>- 🔭 I’m currently working on building cutting edge tools and innovative platforms through code.
+<p>- 🔭 I’m currently working n on building cutting edge tools and innovative platforms through code.
 - 🌱 I’m currently open to working as entry level front end engineer as well as collaborations 
 on open source projects, hackertons and Code challenges. I realy enjoy learning and working with new technologies like React, GraphQL,
 Apollo, as well as Shopify to create exciting projects.<p/>
