@@ -5,7 +5,7 @@
 <p>- 🔭 I’m currently working n on building cutting edge tools and innovative platforms through code.
 - 🌱 I’m currently open to working as entry level front end engineer as well as collaborations 
 on open source projects, hackertons and Code challenges. I realy enjoy learning and working with new technologies like React, GraphQL,
-Apollo, as well as Shopify to create exciting projects.<p/>
+Apollo, as well as Typescript to create exciting projects.<p/>
 
 - 🔭 I’m currently working with React JS, Tailwind CSS, Typescript, Python and Framer motion and using them to build fun, creative Web Project
 
