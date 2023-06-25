@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">Hi 👋, I'm Daniel Agantem</h1>
 <h3 align="center">An Experienced frontend developer</h3>
 <p>- 🔭 I’m currently working n on building cutting edge tools and innovative platforms through code.
 - 🌱 I’m currently open to working as entry level front end engineer as well as collaborations 
