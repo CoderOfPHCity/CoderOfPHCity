@@ -32,11 +32,11 @@ Apollo, as well as Typescript to create exciting projects.<p/>
 
 ## My Recent Blogposts ✍️
 <!-- BLOG:START -->
+- [Getting started with the Next.js serverless framework](https://bejamas.io/blog/getting-started-with-the-next-js-serverless-framework/)
 - [Understanding Redux-Thunk For React: The Big Picture](https://blog.openreplay.com/understanding-redux-thunk-for-react--the-big-picture)
 - [You don’t need a state management library for React. Use useState + Context](https://code.pieces.app/blog/you-dont-need-a-state-management-library-for-react-use-usestate-context)
 - [NFT Overview For Beginners](https://coderofphcity.hashnode.dev/nft-overview-for-beginners#cl83jc7qc00bgr2nv1vom597t?t=1663275586135)
-- [Common Python Beginner Mistakes With Default Arguments](https://coderofphcity.hashnode.dev/common-python-beginner-mistakes-with-default-arguments)
-- [A Quick Guide To Building A Basic Express Server And Router Setup](https://coderofphcity.hashnode.dev/basic-express-server-and-router-setup)
+- [Asynchronous Javascript For Beginners](https://semaphoreci.com/blog/asynchronous-javascript)
 - [Ethereum 2.0 Merge: Understanding Proof-Of-Stake and why should I care](https://coderofphcity.hashnode.dev/ethereum-20-merge-understanding-proof-of-stake-and-why-should-i-care)
 <!-- BLOG:END -->
 
