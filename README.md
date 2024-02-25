@@ -7,9 +7,9 @@
 on open source projects, hackertons and Code challenges. I realy enjoy learning and working with new technologies like solidity, React, GraphQL,
 Apollo, as well as Typescript to create exciting projects.<p/>
 
-- 🔭 I’m currently working with React JS, Solidity, Typescript, Python and Framer motion and using them to build fun, creative Web Project
+- 🔭 I’m currently working with React JS, Solidity, Typescript, ethers.js and Rust and using them to build fun, creative Web Project
 
-- 🌱 I’m currently learning **more of Solidity, Javascript, Redux Toolkit, Rust, Firebase**
+- 🌱 I’m currently learning **more of Solidity, Javascript, Redux Toolkit, Rust, Ethers.js**
 
 - 👯 I’m looking to collaborate on **Junior Developer roles or Partnership with other young developers**
 
