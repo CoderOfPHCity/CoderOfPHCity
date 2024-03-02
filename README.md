@@ -18,7 +18,7 @@ Apollo, as well as Typescript to create exciting projects.<p/>
 - ⚡ Fun fact **I like to Watch Movies,Games, Travel and i Love Building, alot**
 
 
-<p align="left"> <a href="https://twitter.com/coderofphcity" target="blank"><img src="https://img.shields.io/twitter/follow/coderofphcity?logo=twitter&style=for-the-badge" alt="coderofphcity" /></a> </p>
+<p align="left"> <a href="https://twitter.com/DAgantem1624" target="blank"><img src="https://img.shields.io/twitter/follow/coderofphcity?logo=twitter&style=for-the-badge" alt="coderofphcity" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
