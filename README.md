@@ -9,7 +9,7 @@ Foundry, as well as Typescript to create exciting projects.<p/>
 
 - 🔭 I’m currently working with React JS, Solidity, Typescript, ethers.js and Rust and using them to build fun, creative Web Project
 
-- 🌱 I’m currently learning **more of Solidity, Javascript, Foundry, Rust, Ethers.js**
+- 🌱 I’m currently learning **more of Solidity, Javascript, Foundry, Rust, Ethers.js.**
 
 - 👯 I’m looking to collaborate on buulding cracked codes.
 
