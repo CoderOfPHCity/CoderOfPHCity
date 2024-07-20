@@ -4,7 +4,7 @@ y<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.pn
 <h3 align="center">A Smart Contract developer</h3>
 <p>- 🔭 I’m currently working n on building cutting edge web3 tools and innovative platforms through code
 - 🌱 I’m currently open to working as entry level smart contract engineer as well as collaborations. 
-on open source projects, hackertons and Code challenges. I realy enjoy learning and working with new technologies like solidity, React, GraphQL,
+on open source projects, hackertons and Code challenges. I realy enjoy learning and working with new technologies like solidity, React, GraphQL
 Foundry, as well as Typescript to create exciting projects.<p/>
 
 - 🔭 I’m currently working with React JS, Solidity, Typescript, ethers.js and Rust and using them to build fun, creative Web Project
