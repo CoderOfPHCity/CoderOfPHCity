@@ -7,7 +7,7 @@ y<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.pn
 on open source projects, hackertons and Code challenges. I realy enjoy learning and working with new technologies like solidity, React, GraphQL
 Foundry, as well as Typescript to create exciting projects.<p/>
 
-- 🔭 I’m currently working with React JS, Solidity, Typescript, ethers.js and Rust and using them to build fun, creative Web Project
+- 🔭 I’m currently working with React JS, Solidity, Typescript, ethers.js and Rust and using them to build fun, creative Web Project.
 
 - 🌱 I’m currently learning **more of Solidity, Javascript, Foundry, Rust, Ethers.js**
 
