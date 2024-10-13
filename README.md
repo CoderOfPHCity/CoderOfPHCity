@@ -11,7 +11,7 @@ Foundry, as well as Typescript to create exciting projects.<p/>
 
 - 🌱 I’m currently learning **more of Solidity, Javascript, Foundry, Rust, Ethers.js**
 
-- 👯 I’m looking to collaborate on building cracked code.
+- 👯 I’m looking to collaborate on building cracked code
 
 - 📫 How to reach me **Agantemboy@gmail.com**
 
