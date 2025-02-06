@@ -24,6 +24,7 @@ Foundry, as well as Typescript to create exciting projects.<p/>
 <p align="left">
 <a href="https://twitter.com/DAgantem1624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coderofphcity" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-agantem-739726104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-agantem-739726104" height="30" width="40" /></a>
+<a href="https://docs.google.com/document/d/1F603qYw8zcivNp2k3o4YpIN58qxIdOidZwR0FMAWqcM/edit?tab=t.0#heading=h.zep33gofl93p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/resume.svg" alt="Resume" height="30" width="40" /></a>
 </p>
 
 ## Technical Writing Profile ✍️
