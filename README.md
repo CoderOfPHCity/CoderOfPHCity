@@ -1,21 +1,17 @@
 y<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Daniel Agantem</h1>
-<h3 align="center">A Smart Contract developer</h3>
-<p>- 🔭 I’m currently working n on building cutting edge web3 tools and innovative platforms through code
-- 🌱 I’m currently open to working as entry level smart contract engineer as well as collaborations. 
-on open source projects, hackertons and Code challenges. I realy enjoy learning and working with new technologies like solidity, React, GraphQL
-Foundry, as well as Typescript to create exciting projects.<p/>
+<h3 align="center">Blockchain Engineer</h3>
+<p>- 🔭 I’m currently working on building cutting edge web3 tools and innovative platforms through code
+- 🌱 I’m currently open to working as a Smart contract engineer, Security Researcher, as well as collaborations. 
+on open source projects, hackertons and Code challenges. I realy enjoy learning and working with new technologies like solidity, Typescript, GraphQL
+Foundry, as well as Rust to create exciting projects.<p/>
 
-- 🔭 I’m currently working with React JS, Solidity, Typescript, ethers.js and Rust and using them to build fun, creative Web Project.
-
-- 🌱 I’m currently learning **more of Solidity, Javascript, Foundry, Rust, Ethers.js**
-
-- 👯 I’m looking to collaborate on building cracked code
+- 🔭 I’m currently working with Solidity, Typescript, ethers.js and Rust and using them to build fun Projects.
 
 - 📫 How to reach me **Agantemboy@gmail.com**
 
-- ⚡ Fun fact **I like to Watch Movies,Games, Travel and i Love Building, alot**
+- ⚡ Fun fact **I like to Watch Movies, Travel and i Love Building, alot**
 
 
 <p align="left"> <a href="https://twitter.com/DAgantem1624" target="blank"><img src="https://img.shields.io/twitter/follow/coderofphcity?logo=twitter&style=for-the-badge" alt="coderofphcity" /></a> </p>
